@@ -2,8 +2,8 @@
 
 linux-5.3.18-VANILLE-source + new fix for Belize internal hdd
 
-git clone https://github.com/ps4boot/ps4-linux
-cd ps4-linux
+git clone https://github.com/sjdo/ps4-linux-OC-KERNEL.git
+cd ps4-linux-OC-KERNEL
 mv config .config
 make -j9
 
